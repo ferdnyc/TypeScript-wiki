@@ -109,7 +109,7 @@ Here are some behaviors that may look like bugs, but aren't.
 > I want to request one of the following features...
 
 Here's a list of common feature requests and their corresponding issue.
-Please leave comments in these rather than logging new issues.
+Before opening a new request, please read up on prior discussions of the feature you wish to propose.
 * Safe navigation operator, AKA CoffeeScript's null conditional/propagating/propagation operator, AKA C#'s' `?.` operator [#16](https://github.com/Microsoft/TypeScript/issues/16)
 * Minification [#8](https://github.com/Microsoft/TypeScript/issues/8)
 * Extension methods [#9](https://github.com/Microsoft/TypeScript/issues/9)
